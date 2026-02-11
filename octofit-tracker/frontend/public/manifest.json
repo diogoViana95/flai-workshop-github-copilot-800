@@ -1,0 +1,22 @@
+{
+  "short_name": "OctoFit",
+  "name": "OctoFit Tracker - Fitness Tracking App",
+  "icons": [
+    {
+      "src": "octofit-logo-small.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "octofit-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff",
+  "description": "Track your fitness journey with your team using OctoFit Tracker"
+}
